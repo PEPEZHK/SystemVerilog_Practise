@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+At time 0: a=00 out=0000
+At time 1000: a=01 out=0011
+At time 2000: a=10 out=0110
+At time 3000: a=11 out=1001

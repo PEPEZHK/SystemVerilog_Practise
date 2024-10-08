@@ -1,0 +1,24 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sim_1/new/decoder2to4_tb.sv,1710675217,systemVerilog,,,,decoder2to4_tb,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sim_1/new/gf_2tb.sv,1710761888,systemVerilog,,,,gf_2tb,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sim_1/new/tb_2to1.sv,1710590380,systemVerilog,,,,tb_2to1,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sim_1/new/tb_3to8.sv,1710676818,systemVerilog,,,,tb_3to8,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sim_1/new/tb_4to1.sv,1710690788,systemVerilog,,,,tb_4to1,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sim_1/new/tb_8to1.sv,1710692612,systemVerilog,,,,tb_8to1,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sim_1/new/tb_ff.sv,1710604913,systemVerilog,,,,tb_ff,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sim_1/new/tb_logicF.sv,1710698426,systemVerilog,,,,tb_logicF,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sim_1/new/tb_shifter.sv,1710754114,systemVerilog,,,,tb_shifter,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sources_1/new/2to1mux_beh.sv,1710691588,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sources_1/new/4to1mux_beh.sv,,twoToOnemux_beh,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sources_1/new/4to1mux_beh.sv,1710752166,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sources_1/new/decoder2to4.sv,,fourToOnemux_beh,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sources_1/new/decoder2to4.sv,1710675139,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sources_1/new/logicF.sv,,decoder2to4,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sources_1/new/decoder3to8.sv,1710676660,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sim_1/new/tb_3to8.sv,,decoder3to8,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sources_1/new/ff.sv,1710605289,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sim_1/new/tb_ff.sv,,ff_2to1,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sources_1/new/gf_2.sv,1710659833,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sim_1/new/gf_2tb.sv,,gf_2,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sources_1/new/gf_4.v,1710608262,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sim_1/new/gf_2tb.sv,,gf_4,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sources_1/new/logicF.sv,1710764214,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sources_1/new/mux8to1.sv,,logicF,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sources_1/new/mux8to1.sv,1710752955,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sim_1/new/tb_logicF.sv,,mux8to1,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sources_1/new/shifter.sv,1710753901,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-3/cs223-3.srcs/sim_1/new/tb_shifter.sv,,shifter,,uvm,,,,,,

@@ -1,0 +1,21 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/perhat.amanlyyev/cs223-2/cs223-2.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/TwoBitAdder.sv,1710077820,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/full_adder_test.sv,,TwoBitAdder,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/full_adder.sv,1710164852,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/myltiplyBy3.sv,,full_adder,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/full_adder_tb.sv,1709821784,systemVerilog,,,,full_adder_tb,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/full_adder_test.sv,1710077863,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/TwoBirAdder_tb.sv,,AND;FullAdder;OR;XOR,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/full_substractor.sv,1709820929,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/full_substractor_tb.sv,,full_substractor,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/full_substractor_tb.sv,1709821316,systemVerilog,,,,full_substractor_tb,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/full_substractor_test.sv,1710077462,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/tb_full_substractor_test.sv,,AND2;OR2;XOR2;full_substractor_test,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/myltiplyBy3.sv,1710425902,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/tb_myltiplyBy3.sv,,myltiplyBy3,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/struct_2bit_adder.sv,1710164600,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/struct_fAdder.sv,,struct_2bit_adder,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/struct_2bit_adder_tb.sv,1710155753,systemVerilog,,,,struct_2bit_adder_tb,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/struct_fAdder.sv,1710364445,systemVerilog,,C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/tb_myltiplyBy3.sv,,and_gate;or_gate;struct_fAdder;xor_gate,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/struct_fAdder_tb.sv,1709913315,systemVerilog,,,,struct_fAdder_tb,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/struct_fSubstractor_tb.sv,1709915021,systemVerilog,,,,struct_fSubstractor_tb,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/tb_full_adder_test.sv,1710077002,systemVerilog,,,,tb_full_adder_test,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/tb_full_substractor_test.sv,1710077254,systemVerilog,,,,tb_full_substractor_test,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/cs223-2/cs223-2.srcs/sources_1/new/tb_myltiplyBy3.sv,1710160366,systemVerilog,,,,tb_myltiplyBy3,,uvm,,,,,,

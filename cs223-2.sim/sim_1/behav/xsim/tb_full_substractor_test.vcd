@@ -1,0 +1,170 @@
+$date
+   Sun Mar 10 16:33:15 2024
+$end
+
+$version
+  2023.2
+  $dumpfile ("tb_full_substractor_test.vcd") 
+$end
+
+$timescale
+  1ps
+$end
+
+$scope module tb_full_substractor_test $end
+$var reg 1 ! A $end
+$var reg 1 " B $end
+$var reg 1 # Bin $end
+$var reg 1 $ Diff $end
+$var reg 1 % Bout $end
+$scope module uut $end
+$var wire 1 & A $end
+$var wire 1 ' B $end
+$var wire 1 ( Bin $end
+$var reg 1 $ Diff $end
+$var reg 1 % Bout $end
+$var wire 1 ) B1 $end
+$var wire 1 * B2 $end
+$var wire 1 + B3 $end
+$var wire 1 , Or1 $end
+$scope module xor1 $end
+$var wire 1 & a $end
+$var wire 1 ' b $end
+$var reg 1 $ y $end
+$upscope $end
+$scope module xor2 $end
+$var wire 1 $ a $end
+$var wire 1 ( b $end
+$var reg 1 $ y $end
+$upscope $end
+$scope module and1 $end
+$var wire 1 - a $end
+$var wire 1 ' b $end
+$var reg 1 . y $end
+$upscope $end
+$scope module and2 $end
+$var wire 1 - a $end
+$var wire 1 ( b $end
+$var reg 1 / y $end
+$upscope $end
+$scope module and3 $end
+$var wire 1 ' a $end
+$var wire 1 ( b $end
+$var reg 1 0 y $end
+$upscope $end
+$scope module or1 $end
+$var wire 1 ) a $end
+$var wire 1 * b $end
+$var reg 1 1 y $end
+$upscope $end
+$scope module or2 $end
+$var wire 1 , a $end
+$var wire 1 + b $end
+$var reg 1 % y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+
+#0
+$dumpvars
+0!
+0"
+0#
+0$
+0%
+0&
+0'
+0(
+0)
+0*
+0+
+0,
+1-
+0.
+0/
+00
+01
+$end
+
+#10000
+1!
+1$
+1&
+0-
+
+#20000
+0!
+1"
+1%
+0&
+1'
+1)
+1,
+1-
+1.
+11
+
+#30000
+1!
+0$
+0%
+1&
+0)
+0,
+0-
+0.
+01
+
+#40000
+0!
+0"
+1#
+1$
+1%
+0&
+0'
+1(
+1*
+1,
+1-
+1/
+11
+
+#50000
+1!
+0%
+1&
+0*
+0,
+0-
+0/
+01
+
+#60000
+0!
+1"
+1%
+0&
+1'
+1)
+1*
+1+
+1,
+1-
+1.
+1/
+10
+11
+
+#70000
+1!
+1$
+1&
+0)
+0*
+0,
+0-
+0.
+0/
+01
